@@ -3,9 +3,9 @@ lang: de-AT
 title: Experiment Design
 subtitle: Context of Experience - Gruppe 9
 author:
-  - Elisabeth Harlander
-  - Pia Pakeru
-  - Sebastian Dolezel
+  - Elisabeth Harlander _(01106899)_
+  - Pia Pakeru _(01408624)_
+  - Sebastian Dolezel _(01126006)_
 date: \today
 output: beamer_presentation
 theme: AnnArbor
@@ -26,3 +26,9 @@ classoption: aspectratio=169
 # Slide 1
 
 ## Subtitle 1
+
+---
+
+# Slide 2
+
+## Subtitle 2
