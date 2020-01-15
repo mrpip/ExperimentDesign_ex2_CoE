@@ -1,5 +1,5 @@
 # Jupyter Notebook
-ipynb/.ipynb_checkpoints
+*.ipynb_checkpoints
 
 
 # all files and folders in data folder
