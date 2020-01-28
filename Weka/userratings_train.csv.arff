@@ -1,0 +1,96 @@
+@relation userratings_train-weka.filters.unsupervised.attribute.NumericToNominal-R6
+
+@attribute movie {'American Gangster','American Pie','Andaz Apna Apna','Anna Karenina','A Fish Called Wanda','A Goofy Movie','A Million Ways to Die in the West','A Single Man','Bhoothnath Returns','Big Hero 6','Black Swan','Bobby Jasoos','Boogie Nights',Bronson,'Bros Before Hos','Brother Bear','Casino Royale',Chef,'Dirty Dancing','Donnie Darko',Drive,'Excuse My French','Full Metal Jacket','Grand Piano',Homies,Hook,'Hotel Transylvania','Inherent Vice',Interstellar,'Into the Wild','Into the Woods',Invincible,'Jack Reacher','Jerry Maguire','John Wick',Khoobsurat,Khumba,'Lets Be Cops','Le Samourai','Live Nude Girls','Lord of the Flies','Maine Pyar Kiya','Mean Girls','Monsters University','Moulin Rouge!','Mr. Go',Mulan,'My Week with Marilyn',Nightcrawler,'Ode to My Father',Predestination,'Pulp Fiction',RED,'Robin Hood','Seventh Son','Shakespeare in Love','Some Like It Hot','Still Alice','The Babadook','The Birdcage','The Blair Witch Project','The Book of Life','The Bourne Legacy','The Cobbler','The Dark Knight','The Fault in Our Stars','The Great Gatsby','The Hunger Games','The Imitation Game','The Judge','The Last Days on Mars','The Lizzie McGuire Movie','The Matrix','The Maze Runner','The Normal Heart','The Parent Trap','The Phantom Tollbooth','The Reader','The Reluctant Dragon','The Theory of Everything','This Is Where I Leave You','Total Recall','V for Vendetta','Welcome to Me','Wild Tales','Words and Pictures'}
+@attribute metascore numeric
+@attribute imdbRating numeric
+@attribute tomatoUserRating numeric
+@attribute goodforairplane numeric
+@attribute goodforairplane.1 {0,1}
+
+@data
+'American Gangster',76,7.8,4,1,1
+'American Pie',58,7,3.4,1,1
+'Andaz Apna Apna',?,8.8,4.5,1,1
+'Anna Karenina',63,6.6,3.2,1,1
+'A Fish Called Wanda',80,7.6,3.4,1,1
+'A Goofy Movie',?,6.8,3.1,0,0
+'A Million Ways to Die in the West',44,6.1,3,1,1
+'A Single Man',77,7.6,3.8,1,1
+'Bhoothnath Returns',?,7,3.1,0,0
+'Big Hero 6',74,7.9,4.3,1,1
+'Black Swan',79,8,4,1,1
+'Bobby Jasoos',?,5.5,2.6,1,1
+'Boogie Nights',85,7.9,3.6,0,0
+Bronson,71,7.1,3.7,0,0
+'Bros Before Hos',?,6.4,3.1,1,1
+'Brother Bear',48,6.7,3.3,0,0
+'Casino Royale',81,8,3.9,1,1
+Chef,68,7.3,4,0,0
+'Dirty Dancing',65,6.8,3.7,1,1
+'Donnie Darko',71,8.1,3.1,1,1
+Drive,78,7.8,3.9,0,0
+'Excuse My French',?,8,2.9,0,0
+'Full Metal Jacket',78,8.3,4.1,1,1
+'Grand Piano',61,5.9,3.1,1,1
+Homies,?,6,?,1,1
+Hook,52,6.7,3.3,0,0
+'Hotel Transylvania',47,7.1,3.9,1,1
+'Inherent Vice',81,6.9,3.2,0,0
+Interstellar,74,8.7,4.2,1,1
+'Into the Wild',73,8.2,4.1,1,1
+'Into the Woods',69,6.1,3.2,1,1
+Invincible,63,7.1,3.6,1,1
+'Jack Reacher',50,7,3.6,0,0
+'Jerry Maguire',77,7.3,3.3,0,0
+'John Wick',68,7.2,3.9,1,1
+Khoobsurat,?,6.4,3.5,0,0
+Khumba,40,5.8,3.1,1,1
+'Lets Be Cops',30,6.5,3.4,1,1
+'Le Samourai',?,8.1,4.3,0,0
+'Live Nude Girls',?,5.4,3.2,0,0
+'Lord of the Flies',?,6.4,3.1,0,0
+'Maine Pyar Kiya',?,7.6,4.2,0,0
+'Mean Girls',66,7,3,0,0
+'Monsters University',65,7.4,4,1,1
+'Moulin Rouge!',66,7.7,3.7,1,1
+'Mr. Go',?,6.3,2.8,1,1
+Mulan,71,7.5,3.4,1,1
+'My Week with Marilyn',65,7,3.6,0,0
+Nightcrawler,76,7.9,4.1,0,0
+'Ode to My Father',?,7.5,4.3,1,1
+Predestination,69,7.4,3.7,0,0
+'Pulp Fiction',94,8.9,4.2,0,0
+RED,60,7.1,3.7,0,0
+'Robin Hood',53,6.7,3.5,1,1
+'Seventh Son',30,5.5,2.9,1,1
+'Shakespeare in Love',87,7.2,3.4,1,1
+'Some Like It Hot',?,8.3,4.1,1,1
+'Still Alice',72,7.5,4,0,0
+'The Babadook',86,6.9,3.7,1,1
+'The Birdcage',72,6.9,3.3,1,1
+'The Blair Witch Project',81,6.4,2.5,1,1
+'The Book of Life',67,7.3,4,1,1
+'The Bourne Legacy',61,6.7,3.5,0,0
+'The Cobbler',22,5.8,2.8,0,0
+'The Dark Knight',82,9,4.4,0,0
+'The Fault in Our Stars',69,8,4.2,0,0
+'The Great Gatsby',55,7.3,3.7,0,0
+'The Hunger Games',67,7.3,4.1,1,1
+'The Imitation Game',73,8.1,4.3,1,1
+'The Judge',48,7.5,3.8,0,0
+'The Last Days on Mars',46,5.5,2.6,0,0
+'The Lizzie McGuire Movie',56,5.3,2.7,1,1
+'The Matrix',73,8.7,3.6,1,1
+'The Maze Runner',56,6.9,3.7,1,1
+'The Normal Heart',?,8,4.2,1,1
+'The Parent Trap',64,6.4,3.1,0,0
+'The Phantom Tollbooth',?,7,3.8,1,1
+'The Reader',58,7.6,3.7,1,1
+'The Reluctant Dragon',?,7,3.7,0,0
+'The Theory of Everything',72,7.8,4,1,1
+'This Is Where I Leave You',44,6.6,3.5,1,1
+'Total Recall',57,7.5,3.3,1,1
+'V for Vendetta',62,8.2,3.9,0,0
+'Welcome to Me',67,6.2,3.4,0,0
+'Wild Tales',77,8.2,4.3,0,0
+'Words and Pictures',49,6.6,3.3,1,1
