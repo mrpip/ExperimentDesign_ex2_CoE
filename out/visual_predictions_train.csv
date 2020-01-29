@@ -1,0 +1,94 @@
+movie,goodforairplanes,KNN,Decision Tree,Logistic Regression,SVM,Random Forest,AdaBoost,Gradient Boosting Tree
+Words and Pictures,1,1,0,0,1,0,0,0
+Welcome to Me,0,0,1,0,1,1,1,1
+Wild Tales,0,0,0,1,1,0,0,1
+V for Vendetta,0,1,0,1,1,0,0,0
+Transformers  Age of Extinction,0,0,0,0,1,0,0,0
+Total Recall,1,1,1,1,1,1,1,1
+This Is Where I Leave You,1,1,1,1,1,1,1,1
+The Theory of Everything,1,1,1,1,1,1,1,1
+The Reluctant Dragon,0,1,0,1,1,0,1,0
+The Reader,1,0,0,0,1,0,0,0
+The Phantom Tollbooth,1,0,1,1,1,0,1,1
+The Parent Trap,0,1,1,1,1,0,1,1
+The Normal Heart,1,0,0,1,1,1,1,0
+The Maze Runner,1,1,1,1,1,1,1,1
+The Matrix,1,1,1,1,1,0,1,0
+The Lizzie McGuire Movie,1,0,1,1,1,1,1,1
+The Last Days on Mars,0,0,0,0,1,0,0,0
+The Judge,0,1,1,1,1,1,1,1
+The Imitation Game,1,1,1,1,1,1,1,1
+The Hunger Games  Catching Fire,0,0,0,0,1,0,0,0
+The Hunger Games,1,1,1,1,1,1,1,1
+The Hobbit  The Desolation of Smaug,1,1,1,1,1,1,1,1
+The Great Gatsby,0,1,0,1,1,1,1,1
+The Fault in Our Stars,0,0,1,0,1,0,0,1
+The Dark Knight,0,1,1,1,1,1,1,1
+The Cobbler,0,1,1,1,1,1,1,1
+The Bourne Legacy,0,1,1,0,1,1,1,1
+The Book of Life,1,1,1,1,1,1,1,1
+The Blair Witch Project,1,1,0,1,1,1,0,0
+The Birdcage,1,1,0,1,1,0,0,0
+The Babadook,1,1,1,1,1,0,1,1
+Still Alice,0,1,1,1,1,1,1,1
+Some Like It Hot,1,1,1,0,1,1,0,0
+Shakespeare in Love,1,1,1,1,0,1,1,1
+Seventh Son,1,0,0,1,1,1,1,1
+Robin Hood,1,1,0,0,1,0,0,0
+RED,0,1,1,0,1,0,0,1
+Pulp Fiction,0,1,0,0,1,0,0,1
+Predestination,0,1,0,1,1,1,1,0
+Perez,0,0,0,1,1,1,1,1
+Ode to My Father,1,0,1,1,1,0,1,1
+Nightcrawler,0,1,0,1,1,0,0,0
+Night at the Museum  Secret of the Tomb,1,1,0,1,1,1,1,1
+My Week with Marilyn,0,0,0,1,1,1,1,0
+Mulan,1,0,0,1,1,0,0,0
+Monsters University,1,0,0,0,1,0,0,1
+Mean Girls,0,0,1,1,1,1,1,1
+Maine Pyar Kiya,0,1,0,1,1,0,0,0
+Lord of the Flies,0,1,0,1,1,0,0,0
+Looney Tunes  Back in Action,0,1,0,1,1,1,0,0
+Live Nude Girls,0,0,0,0,1,0,0,0
+Lets Be Cops,1,1,1,1,1,1,1,1
+Le Samourai,0,1,0,0,1,0,1,1
+Khumba,1,1,0,1,1,0,0,1
+Khoobsurat,0,1,0,1,1,1,1,1
+John Wick,1,1,1,1,1,1,1,1
+Jerry Maguire,0,1,0,1,0,0,0,0
+Jack Reacher,0,0,1,1,1,1,1,1
+Invincible,1,1,1,1,1,0,1,1
+Into the Woods,1,0,0,1,1,0,0,0
+Into the Wild,1,1,1,1,0,1,1,1
+Interstellar,1,1,1,1,1,1,1,1
+Inherent Vice,0,1,1,1,1,1,1,1
+Hotel Transylvania,1,0,1,1,1,1,1,1
+Hook,0,0,1,1,0,1,1,1
+Homies,1,0,1,1,1,0,1,1
+Grand Piano,1,1,1,1,1,1,1,1
+Full Metal Jacket,1,1,1,1,1,0,0,0
+Exodus  Gods and Kings,0,0,0,1,1,0,0,0
+Excuse My French,0,0,0,1,1,0,0,0
+Elsa   Fred,0,0,0,0,1,0,1,0
+Drive,0,1,1,1,1,1,1,1
+Donnie Darko,1,0,1,1,0,1,1,1
+Dirty Dancing,1,1,1,1,1,1,1,1
+Chef,0,1,0,0,0,0,0,0
+Casino Royale,1,0,1,1,0,1,1,1
+Brother Bear,0,0,0,1,0,0,1,0
+Bros Before Hos,1,1,1,1,1,0,1,1
+Bronson,0,1,0,1,1,1,1,1
+Boogie Nights,0,1,0,0,1,1,1,0
+Bobby Jasoos,1,1,1,1,0,0,1,1
+Black Swan,1,1,1,1,0,1,1,1
+Big Hero 6,1,1,0,0,0,0,0,0
+Bhoothnath Returns,0,0,1,1,1,1,0,0
+Babar  The Movie,0,1,0,1,1,0,0,0
+Anna Karenina,1,1,1,1,1,1,1,1
+Andaz Apna Apna,1,0,0,0,0,1,0,1
+American Pie,1,1,1,1,1,1,1,1
+American Gangster,1,1,1,1,1,1,1,1
+A Single Man,1,0,1,1,1,0,0,0
+A Million Ways to Die in the West,1,1,1,1,1,1,1,1
+A Goofy Movie,0,0,0,1,1,1,1,0
+A Fish Called Wanda,1,1,1,1,1,1,1,1

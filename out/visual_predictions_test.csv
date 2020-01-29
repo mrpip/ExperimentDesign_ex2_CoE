@@ -1,0 +1,166 @@
+movie,goodforairplanes,KNN,Decision Tree,Logistic Regression,SVM,Random Forest,AdaBoost,Gradient Boosting Tree
+10.000 Km,1,1,1,1,1,1,1,1
+12 Years a Slave,1,0,0,1,1,0,0,0
+21 Jump Street,1,0,0,1,1,0,0,0
+2 States,1,0,1,0,1,1,1,0
+A Bugs Life,1,1,1,1,0,1,0,1
+A Little Chaos,0,1,0,1,1,1,0,0
+A Most Wanted Man,1,0,0,0,1,0,0,0
+A Simple Life,1,1,0,1,1,0,0,0
+Aanmodderfakker,1,1,0,0,1,1,0,0
+Alexander,1,1,0,1,0,0,0,0
+Alice in Wonderland,0,1,0,1,1,1,1,1
+American Sniper,0,1,1,1,1,1,1,1
+Anastasia,1,0,0,1,1,0,0,0
+And So It Goes,1,1,1,1,1,1,1,1
+Antz,1,1,0,1,1,1,0,1
+Avatar,0,1,0,1,1,1,0,1
+Bad News Bears,1,1,1,1,0,1,0,0
+Banklady,1,0,0,0,1,1,0,0
+Beetlejuice,1,1,1,1,1,0,1,0
+Begin Again,1,0,0,1,1,0,1,0
+Bewakoofiyaan,1,0,1,0,1,0,0,1
+Bhoothnath,0,1,0,0,1,1,1,1
+Billy Elliot,1,1,0,0,1,0,0,0
+Blended,1,1,1,1,1,1,1,1
+Blow Out,0,1,1,1,0,1,1,1
+Bride Flight,1,0,0,0,1,0,1,0
+Bridges of Sarajevo,0,1,1,1,1,1,1,1
+Burlesque,0,1,1,1,1,1,1,1
+Captain America  The Winter Soldier,0,0,1,0,1,0,0,1
+Cascadeur,0,1,1,1,1,1,1,1
+Charlie and the Chocolate Factory,1,0,1,1,0,0,1,0
+Clash of the Titans,0,0,0,0,1,0,0,0
+Contact,1,0,0,1,1,0,0,0
+Divergent,0,1,1,1,1,1,1,1
+Django Unchained,0,0,0,1,1,1,1,0
+Dolphin Tale 2,1,1,1,1,1,1,1,1
+Dracula Untold,0,1,1,0,1,0,0,0
+Dumb and Dumber To,1,1,1,1,1,1,1,1
+Edge of Tomorrow,1,0,1,1,1,1,0,0
+Fargo,0,1,0,1,1,1,0,1
+Fast Five,0,1,0,1,1,0,0,0
+Finding Fanny,1,1,1,1,1,1,1,1
+Finding Nemo,1,0,0,1,1,0,0,0
+Flying Home,0,1,1,1,0,1,1,1
+Foxcatcher,1,0,1,1,1,0,0,1
+From A to B,1,1,1,1,1,1,1,1
+Frozen,1,1,0,1,1,0,1,1
+Fury,0,1,1,1,1,1,1,1
+Godzilla,0,1,1,1,1,1,1,1
+Good Will Hunting,1,1,0,0,1,0,1,0
+Gooische vrouwen,1,0,0,1,1,0,0,0
+Gran Torino,1,1,1,0,1,1,0,0
+Groundhog Day,1,1,0,1,1,0,0,1
+Gunday,0,1,0,0,1,1,1,1
+Happy New Year,0,1,0,0,1,0,0,1
+Harry Potter and the Deathly Hallows  Part 2,0,0,0,0,1,0,0,0
+Heaven Knows What,1,0,0,1,1,0,0,0
+Hector and the Search for Happiness,1,1,1,1,1,1,1,1
+Horrible Bosses 2,1,1,1,1,1,1,1,1
+Hungry Hearts,0,1,1,1,1,1,1,1
+I Am Big Bird  The Caroll Spinney Story,0,1,1,1,1,1,1,1
+In Her Shoes,1,0,0,1,1,0,0,0
+Iron Man 2,0,0,0,0,1,0,0,0
+Iron Man 3,0,0,0,0,1,0,0,0
+Ironclad,0,1,1,1,1,1,1,1
+Justin Bieber  Never Say Never,0,1,1,1,1,1,1,1
+Karan Arjun,1,1,0,1,1,1,0,0
+Kick-Ass,0,1,0,1,1,1,1,1
+Kingsman  The Secret Service,0,0,1,0,1,1,1,1
+Kundo  Age of the Rampant,0,1,0,1,1,0,0,0
+Kurt Cobain  Montage of Heck,1,1,0,1,1,0,0,0
+La Vie en Rose,0,1,1,1,0,1,1,1
+La foresta di ghiaccio,1,1,0,0,1,0,0,0
+Legally Blonde,1,1,1,1,1,1,1,1
+Leviathan,1,0,1,0,1,0,0,0
+Life of Crime,1,1,0,0,1,0,1,0
+Lilting,0,1,1,1,1,1,1,1
+Limitless,1,1,1,1,1,1,1,1
+Lost Highway,0,1,0,1,1,1,1,1
+Love Actually,1,1,1,1,0,1,1,1
+Lucy,0,1,1,1,1,1,1,1
+Magic Mike,1,0,0,0,1,0,1,0
+Magic in the Moonlight,1,0,0,0,1,0,1,0
+Maleficent,1,0,0,0,1,1,0,1
+Maps to the Stars,1,1,1,1,1,1,1,1
+Mardaani,1,1,0,1,1,1,0,1
+Mary Kom,0,0,1,1,1,1,1,1
+Mommy,0,1,1,1,1,1,1,1
+Moonrise Kingdom,1,1,1,1,1,1,1,1
+Moonstruck,1,1,1,0,1,0,1,1
+Neighbors,0,0,0,0,1,0,0,0
+New Kids Nitro,1,1,0,0,1,1,1,0
+Oliver   Company,0,0,0,0,1,0,0,0
+One Chance,1,0,0,0,1,0,0,0
+PK,1,0,1,0,1,0,1,0
+Paddington,1,0,0,0,1,0,0,0
+Padosan,0,0,0,0,1,0,0,0
+Pak Van Mijn Hart,1,0,1,1,1,1,1,1
+Pirates of the Caribbean  The Curse of the Black Pearl,0,0,0,1,0,0,0,0
+Pride   Prejudice,0,1,1,1,1,1,0,1
+Prometheus,0,1,1,1,1,1,1,1
+Rab Ne Bana Di Jodi,1,1,0,1,1,0,0,0
+Ratatouille,1,1,1,1,1,1,1,1
+Rise of the Planet of the Apes,0,1,0,0,1,0,0,0
+Rocky Balboa,0,1,0,1,0,0,0,0
+Run Lola Run,1,0,0,1,1,0,0,0
+Se7en,0,1,0,1,1,1,1,0
+Selma,0,0,0,1,1,0,0,0
+Serena,1,1,0,0,1,0,0,0
+Sleeping Beauty,1,1,0,1,1,1,0,1
+Smokey and the Bandit,0,1,1,1,1,1,1,1
+Soul Surfer,0,0,0,1,0,0,0,0
+Star Wars  Episode IV - A New Hope,0,1,0,1,0,1,0,0
+Stardust,0,1,1,1,0,1,1,1
+Tammy,1,1,1,1,1,1,1,1
+Testament of Youth,0,0,0,1,1,0,0,0
+The AristoCats,1,1,1,1,0,1,1,1
+The Avengers,1,0,1,0,1,1,1,0
+The Best of Me,0,1,1,1,1,1,1,1
+The Big Chill,0,1,0,0,1,0,1,0
+The Bridges of Madison County,1,1,1,1,0,1,1,1
+The Croods,1,1,1,1,1,1,0,1
+The Departed,0,1,0,1,0,0,0,0
+The Drop,1,1,0,0,1,0,1,1
+The English Patient,1,1,0,1,1,0,0,0
+The Face Reader,1,0,1,1,1,0,0,0
+The Fox and the Hound,0,1,1,1,0,1,1,1
+The Gambler,1,1,1,1,1,1,1,1
+The Girl Next Door,0,1,0,1,0,0,0,0
+The Girl with the Dragon Tattoo,0,1,1,1,1,1,1,1
+The Golden Era,1,1,1,1,1,0,0,1
+The Grand Budapest Hotel,1,1,1,1,1,1,1,1
+The Green Mile,0,1,0,1,1,1,1,1
+The Hangover,1,0,0,0,0,0,0,0
+The Hobbit  An Unexpected Journey,0,0,0,0,1,0,0,0
+The Hobbit  The Battle of the Five Armies,0,1,1,1,1,1,1,1
+The Incredibles,0,1,1,1,0,1,1,1
+The Kings Speech,1,0,0,0,1,0,0,0
+The Lego Movie,0,0,0,0,0,0,0,0
+The Little Mermaid,1,1,1,1,1,1,1,1
+The Monuments Men,1,1,1,1,1,0,1,0
+The Mummy,0,0,1,0,1,1,1,0
+The Queen,1,0,0,1,0,0,0,0
+The Rewrite,1,0,1,1,1,1,1,1
+The Silence of the Lambs,0,1,0,1,1,1,0,1
+The Simpsons Movie,1,1,1,1,1,1,1,1
+The Social Network,0,1,1,1,1,1,1,1
+The Trip to Italy,1,1,1,1,1,1,1,1
+The Water Diviner,0,0,0,0,1,1,0,1
+The White Haired Witch of Lunar Kingdom,1,1,1,1,1,0,1,1
+The Wolf of Wall Street,1,1,1,1,1,1,1,1
+Thelma   Louise,0,0,0,0,1,0,1,0
+There Will Be Blood,0,1,1,1,0,1,1,1
+Tommy Boy,1,0,0,1,1,0,0,0
+Trainspotting,0,1,1,1,0,1,1,1
+Valkyrie,0,1,1,1,1,1,1,1
+Walk the Line,1,1,1,1,0,1,1,1
+Warrior,0,1,0,1,1,1,0,0
+Wassup Rockers,0,1,0,1,0,0,0,0
+Watchmen,0,1,1,0,1,1,0,0
+Whiplash,0,1,0,0,1,0,0,1
+Wish I Was Here,1,1,1,1,1,1,1,1
+X-Men  Days of Future Past,0,0,0,0,1,0,0,0
+X-Men  First Class,0,1,1,1,1,1,1,1
+Yentl,1,1,0,1,1,0,0,0
