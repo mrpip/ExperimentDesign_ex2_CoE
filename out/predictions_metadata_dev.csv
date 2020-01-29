@@ -1,0 +1,96 @@
+movie,decision_tree,knn,nearest_mean,logistic_regression,svm,bagging,random_forest,adaboost,gradient_boost
+Seventh Son,0,1,0,0,1,0,0,0,0
+Welcome to Me,1,0,1,1,1,1,1,1,1
+The Judge,1,1,0,1,1,1,1,1,1
+Transformers  Age of Extinction,0,0,0,0,1,1,1,0,0
+The Normal Heart,1,1,1,1,1,1,1,1,1
+The Phantom Tollbooth,0,1,1,1,1,1,1,1,1
+Andaz Apna Apna,1,1,1,0,1,0,0,0,0
+Hotel Transylvania,0,1,1,1,1,1,1,1,0
+The Matrix,1,1,1,1,1,0,0,0,0
+Into the Wild,1,0,0,1,1,1,1,1,1
+Jerry Maguire,0,1,1,1,1,1,1,0,0
+Lord of the Flies,0,1,1,1,1,1,0,1,0
+The Great Gatsby,1,0,0,1,1,1,1,1,1
+Inherent Vice,1,0,0,0,1,1,1,1,1
+Donnie Darko,1,1,1,1,1,0,0,1,1
+Anna Karenina,1,1,1,1,1,1,1,1,1
+American Gangster,1,1,1,1,1,1,1,1,1
+Full Metal Jacket,1,1,0,0,1,0,0,0,1
+Words and Pictures,0,0,1,1,1,1,1,1,1
+John Wick,0,1,1,1,1,0,0,0,0
+The Fault in Our Stars,0,0,1,1,1,1,1,0,0
+The Cobbler,1,0,1,1,1,1,1,1,1
+The Hobbit  The Desolation of Smaug,0,1,1,1,1,1,1,1,1
+Jack Reacher,1,1,1,1,1,1,1,0,1
+The Book of Life,1,0,0,0,1,1,0,1,1
+Let's Be Cops,0,1,0,1,1,1,1,0,0
+A Single Man,1,1,1,1,1,1,1,1,1
+Casino Royale,0,1,1,1,1,1,1,0,1
+Ode to My Father,1,1,0,0,1,0,0,1,1
+Dirty Dancing,1,1,1,1,1,0,0,1,1
+V for Vendetta,1,1,0,0,1,0,0,1,1
+Brother Bear,0,0,0,0,1,1,1,0,0
+Babar  The Movie,1,1,0,0,1,0,0,1,1
+The Parent Trap,0,0,0,0,1,1,1,0,0
+Bros Before Hos,0,1,1,1,1,0,0,0,0
+Moulin Rouge!,0,1,0,0,1,0,0,0,0
+Total Recall,0,0,0,0,1,0,0,1,1
+American Pie,1,0,1,1,1,1,1,1,1
+Shakespeare in Love,1,0,0,1,1,1,1,0,1
+Bobby Jasoos,1,1,1,1,1,1,1,1,1
+Boogie Nights,0,1,1,1,1,0,0,0,0
+Excuse My French,1,1,1,1,1,1,1,0,0
+Chef,1,1,1,1,1,0,0,0,1
+Le Samourai,1,1,1,1,1,0,0,1,1
+The Lizzie McGuire Movie,1,1,1,1,1,0,0,1,1
+Khumba,0,1,0,0,1,1,1,0,0
+A Fish Called Wanda,1,1,1,1,1,0,1,1,1
+Homies,0,1,1,1,1,0,0,0,0
+Mulan,0,0,0,1,1,1,1,0,0
+The Maze Runner,0,0,0,0,1,0,0,0,0
+Nightcrawler,1,0,1,1,1,0,0,0,1
+Elsa   Fred,1,0,1,1,1,1,1,1,1
+RED,0,0,1,0,1,0,0,0,1
+Khoobsurat,1,0,1,1,1,1,1,1,1
+Interstellar,1,1,0,1,1,1,1,1,1
+Night at the Museum  Secret of the Tomb,1,1,1,1,1,0,1,0,1
+The Hunger Games,0,0,1,1,1,1,1,0,0
+The Babadook,0,1,0,1,1,1,1,1,1
+Big Hero 6,1,0,1,1,1,1,1,1,1
+The Imitation Game,1,0,0,0,1,0,0,1,1
+Looney Tunes  Back in Action,0,0,1,1,1,0,0,0,0
+The Hunger Games  Catching Fire,0,0,0,0,1,0,0,0,0
+Hook,1,1,0,1,1,0,0,0,0
+Exodus  Gods and Kings,1,1,1,1,1,0,0,0,0
+Invincible,1,1,1,1,1,1,1,1,1
+Some Like It Hot,0,0,1,0,1,0,0,0,0
+The Reader,1,0,1,1,1,0,0,1,1
+The Birdcage,0,0,1,1,1,1,1,1,1
+The Theory of Everything,1,1,0,1,1,1,1,1,1
+Black Swan,0,1,1,1,1,0,0,0,0
+Maine Pyar Kiya,1,1,0,0,1,0,0,0,0
+Still Alice,0,0,0,1,1,0,0,0,0
+My Week with Marilyn,1,0,0,0,1,1,1,1,1
+Bhoothnath Returns,0,1,0,0,1,0,0,0,0
+Grand Piano,1,0,0,0,1,0,0,1,1
+Into the Woods,0,0,0,0,1,0,0,1,0
+The Blair Witch Project,1,1,1,1,1,1,1,1,1
+Monsters University,1,0,0,0,1,1,1,1,1
+Mr. Go,0,1,1,1,1,1,1,0,0
+This Is Where I Leave You,1,1,1,1,1,0,1,1,1
+The Bourne Legacy,1,0,0,0,1,1,1,1,1
+Wild Tales,0,0,1,1,1,0,0,0,0
+The Dark Knight,1,1,0,0,1,0,0,0,0
+Predestination,1,0,0,0,1,0,0,0,0
+Robin Hood,1,1,1,1,1,1,1,1,1
+A Million Ways to Die in the West,1,1,0,1,1,1,1,1,1
+Drive,1,1,1,1,1,0,0,1,1
+Bronson,0,0,0,1,1,0,1,0,0
+The Last Days on Mars,0,0,1,1,1,0,0,0,0
+The Reluctant Dragon,0,1,1,1,1,0,0,0,0
+Live Nude Girls,0,0,0,0,1,0,0,0,0
+Pulp Fiction,1,1,0,0,1,0,0,0,0
+Perez,0,0,1,1,1,1,1,0,0
+A Goofy Movie,1,0,0,1,1,1,1,1,1
+Mean Girls,0,1,1,1,1,1,1,0,0
