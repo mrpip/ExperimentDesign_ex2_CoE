@@ -4,4 +4,8 @@
 
 # all files and folders in data folder
 data/*
+<<<<<<< Updated upstream
 3_Classfier_Stacking_Philipp.ipynb
+=======
+!data/out/*
+>>>>>>> Stashed changes
