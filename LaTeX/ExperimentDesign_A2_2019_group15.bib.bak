@@ -1,6 +1,6 @@
 % Encoding: UTF-8
 
-@Article{Freire2009,
+@Article{Wang2016,
   author  = {Bo Wang and Cynthia C. S. Liem},
   title   = {TUD-MMC at MediaEval 2016: Context of Experience Task},
   journal = {MediaEval 2016 Workshop},
@@ -8,7 +8,7 @@
   date    = {2016-10-21},
 }
 
-@Article{Freire2009,
+@Report{Riegler2016,
   author = {Michael Riegler and Martha Larson and Concetto Spampinato and Pål Halvorsen and Mathias Lux and Jonas Markussen and Konstantin Pogorelov and Carsten Griwodz and Håkon Stensland},
   title  = {Right Inflight? A Dataset for Exploring the Automatic Prediction of Movies Suitable for a Watching Situation},
   year   = {2016},
