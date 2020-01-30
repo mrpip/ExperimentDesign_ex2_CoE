@@ -1,1 +1,27 @@
-table 1...
+
+
+\begin{table*}[h]
+	\begin{tabular}{|l|l|ccc|}
+		\hline
+		Features Used & Source & Precision & Recall & F1 \\
+		\hline
+		User Rating & Paper & $0.371$ & $0.609$ & $0.461$ \\
+		User Rating & Recreation & $1.000$ & $1.000$ & $1.000$ \\
+		\hline
+		Visual & Paper & $0.447$ & $0.476$ & $0.458$ \\
+		Visual & Recreation & $0.493$ & $0.503$ & $0.489$ \\
+		\hline
+		Metadata & Paper & $0.524$ & $0.516$ & $0.519$ \\
+		Metadata & Recreation & $0.525$ & $0.533$ & $0.528$ \\
+		\hline
+		Metadata + User Rating & Paper & $0.581$ & $0.600$ & $0.583$ \\
+		Metadata + User Rating & Recreation & $0.528$ & $0.520$ & $0.523$ \\
+		\hline
+		Metadata + Visual & Paper & $0.584$ & $0.600$ & $0.586$ \\
+		Metadata + Visual & Recreation & $0.471$ & $0.470$ & $0.479$ \\
+		\hline
+		\multicolumn{5}{c}{ } \\
+	\end{tabular}
+	\caption{Comparison of Table 1 in the reference paper and our recreation attempt using Weka}
+	\label{table1}
+\end{table*}

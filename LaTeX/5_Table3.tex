@@ -1,1 +1,28 @@
-table 3...
+
+
+
+\begin{table*}[h]
+	\begin{tabular}{|l|l|ccc|}
+		\hline
+		Stacking Strategy & Source & Precision & Recall & F1 \\
+		\hline
+		Voting (CV) & Paper & $0.94$ & $0.57$ & $0.71$ \\
+		Voting (Train) & Recreation & $0.59$ & $0.82$ & $0.68$ \\
+		\hline
+		Label Stacking (CV) & Paper & $0.72$ & $0.86$ & $0.78$ \\
+		Label Stacking (CV) & Recreation & $0.64$ & $0.67$ & $0.64$ \\
+		\hline
+		Label Attribute Stacking (CV) & Paper & $0.71$ & $0.79$ & $0.75$ \\
+		Label Attribute Stacking (CV) & Recreation & $0.58$ & $0.79$ & $0.66$ \\
+		\hline
+		Voting (Test) & Paper & $0.62$ & $0.80$ & $0.70$ \\
+		Voting (Test) & Recreation & $0.58$ & $0.72$ & $0.64$ \\
+		\hline
+		Label Stacking (Test) & Paper & $0.62$ & $0.90$ & $0.73$ \\
+		Label Stacking (Test) & Recreation & $0.53$ & $0.36$ & $0.43$ \\
+		\hline
+		\multicolumn{5}{c}{ } \\
+	\end{tabular}
+	\caption{Comparison of Table 3 (Classifier Stacking Results) in the reference paper and our recreation attempt}
+	\label{table3}
+\end{table*}
