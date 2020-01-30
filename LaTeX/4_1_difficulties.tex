@@ -8,6 +8,7 @@ $10$-fold cross validation leads to small test sizes applied to $95$ data points
 The movie names in the different files were written slightly variably (apostrophes appeared for example in some files, in others not). It was extra work to merge this data. 
 
 No implementation of the Las Vegas Wrapper was specified in the paper. We implemented it ourselves, trying to imitate the Las Vegas Wrapper (optimizing the F1 score) described in the cited paper. We could not find out, how many different combinations of features were tried out. We used about $10$ otherwise our results would have exceeded the original results notably. 
+As described in the paper, we have filtered out the classifiers for all modalities, for which our predictions achieved a score of $F1>0,5$, which clearly indicates that either the default parameters or some mathematical functions have changed within the past updates of the used libraries, as we received a lot more results above the chosen baseline of random guessing ($0.5$).
 
 
 
