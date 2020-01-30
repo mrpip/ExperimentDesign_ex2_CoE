@@ -3,9 +3,11 @@ We could not find out, which Python and Scikit-Learn version was used. We simply
 
 Again, it was not depicted clearly, which data sets were used for computing table $2$. We used the folders in the folder "Dev Set" of the folder "CoE dataSet". 
 
-$10$-fold cross validation leads to small test sizes applied to $95$ data points. This is the size of the training data. Still, we imitated this approach. 
+$10$-fold cross validation leads to small test sizes applied to $95$ data points. This is the size of the training data. Still, we imitated this approach. No random seed was provided for cross validation, we chose any seed. 
 
 The movie names in the different files were written slightly variably (apostrophes appeared for example in some files, in others not). It was extra work to merge this data. 
+
+No implementation of the Las Vegas Wrapper was specified in the paper. We implemented it ourselves, trying to imitate the Las Vegas Wrapper (optimizing the F1 score) described in the cited paper. We could not find out, how many different combinations of features were tried out. We used about $10$ otherwise our results would have exceeded the original results notably. 
 
 
 
