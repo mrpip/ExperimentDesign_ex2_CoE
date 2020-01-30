@@ -1,10 +1,9 @@
-\subsubsection*{Difficulties}
+\subsubsection*{Difficulties and Strategies}
 It was not clear, whether the scores computed with cross-validation were computed on the training or the test data. We applied cross-validation only to the training data. For the training data, we used the data of the same folders as for table $2$. 
 
-For computing the scores for the test data, we used the 
+For computing the scores for the test data, we used the training data mentioned above for training the models (when applicable). We evaluated on the test data from the "Test Set" folder which can be found in the "CoE Dataset" folder. 
 
+We did not include the audio and text data into our computations due the serious merging problems. These arose from the already mentioned differences in the namings of the movies. 
 
-
-\subsubsection*{Strategies}
-
-\subsubsection*{Key Findings}
+It was not clear which classifier was used for the Label Stacking and the Label Feature Stacking. We used Logistic Regression as this is the default classifier used by the Ensemble Voting classifier from Sklearn. 
+The Label Feature Stacking was not explained at all, we decided to concat the predictions of the base classifiers with the data itself apply a classifier to the resulting dataframe. 
