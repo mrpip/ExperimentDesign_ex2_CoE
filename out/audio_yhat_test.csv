@@ -1,49 +1,49 @@
-,KNN,Decision tree,SVM,Bagging,Random forest,AdaBoost,Naive bayes,Logistic Regression,Gradient Boosting Tree,goodforairplanes,movie_name
-0,1,1,1,1,1,1,0,1,1,1,Belle de Jour
-1,0,0,0,0,0,0,0,0,0,0,Big Game
-2,1,1,1,1,0,0,0,0,1,1,Birdman Or (The Unexpected Virtue of Ignorance)
-3,0,0,0,0,1,1,0,0,1,0,Dances with Wolves
-4,1,1,1,1,1,1,1,1,1,0,Dilwale Dulhania Le Jayenge
-5,1,0,0,0,0,0,0,0,0,1,Dorsvloer vol confetti
-6,1,1,1,0,1,0,1,0,1,1,Dumbo
-7,0,0,0,0,0,0,0,0,0,1,Gone Girl
-8,1,0,1,0,1,0,1,1,1,1,Good People
-9,0,0,1,0,1,0,0,1,1,0,Guardians of the Galaxy
-10,1,1,1,1,1,1,0,1,1,1,Hercules
-11,0,1,0,1,1,1,0,1,1,1,Homeland
-12,0,1,0,1,1,0,1,1,1,1,How to Train Your Dragon 2
-13,0,0,0,0,0,0,0,0,0,0,Hum Aapke Hain Koun...!
-14,1,0,1,0,0,0,1,0,0,1,Humpty Sharma Ki Dulhania
-15,0,1,0,1,1,1,1,0,1,0,Interview with the Vampire The Vampire Chronicles
-16,0,0,0,0,1,0,0,0,1,0,John Tucker Must Die
-17,1,1,1,1,1,0,1,1,1,1,Katalin Varga
-18,0,0,0,0,0,0,0,0,0,0,Kick-Ass 2
-19,0,1,0,1,0,0,1,1,1,0,La Camioneta The Journey of One American School Bus
-20,0,0,0,0,0,0,1,1,0,1,Loft
-21,1,0,1,0,0,1,1,1,0,0,Million Dollar Arm
-22,0,0,0,0,0,0,0,0,0,1,Miss Sixty
-23,1,0,1,0,1,1,1,1,1,0,Mommie Dearest
-24,0,1,0,1,0,1,1,0,0,0,My Own Private Idaho
-25,0,0,0,1,1,1,0,1,1,0,Oorlogswinter
-26,0,0,1,0,0,0,0,1,0,1,Pocahontas
-27,0,1,0,0,0,1,0,0,0,1,Quantum of Solace
-28,0,0,0,0,0,0,0,0,0,0,School of Rock
-29,0,0,0,0,0,0,0,0,0,1,Silver Linings Playbook
-30,0,1,0,1,1,1,0,1,1,1,Sleepy Hollow
-31,0,0,0,0,1,1,0,1,1,1,Soof
-32,0,1,0,1,1,1,0,1,1,0,The Devil Wears Prada
-33,1,0,1,0,0,1,0,0,0,0,The Equalizer
-34,1,1,1,1,1,1,1,1,1,1,The Expendables 3
-35,1,0,1,0,1,0,0,1,0,0,The Great Escape
-36,0,0,0,0,1,0,0,1,0,1,The Hundred-Foot Journey
-37,0,0,0,0,0,0,0,0,0,1,The Inglorious Bastards
-38,1,1,1,1,1,1,1,1,1,1,The Shawshank Redemption
-39,0,0,0,0,0,1,0,0,1,0,The Voices
-40,1,1,1,1,1,1,1,1,1,0,Thor The Dark World
-41,0,1,0,0,0,1,0,0,1,0,Titanic
-42,1,1,1,1,1,1,1,1,1,1,Trash
-43,1,1,1,1,1,1,1,1,1,0,Unbroken
-44,1,0,1,1,1,0,0,1,0,0,Verliefd op Ibiza
-45,1,1,0,1,0,0,0,0,0,1,Wet Hot American Summer
-46,1,1,1,1,0,0,1,1,1,1,What We Do in the Shadows
-47,0,1,0,1,1,1,1,0,1,0,Who Framed Roger Rabbit
+KNN,Decision tree,SVM,Bagging,Random forest,AdaBoost,Naive bayes,Logistic Regression,Gradient Boosting Tree,goodforairplanes,movie_name
+1,1,1,1,1,1,0,1,1,1,Belle de Jour
+0,0,0,0,0,0,0,0,0,0,Big Game
+1,1,1,0,1,0,0,0,1,1,Birdman Or (The Unexpected Virtue of Ignorance)
+0,0,0,1,0,1,0,0,1,0,Dances with Wolves
+1,0,1,1,1,1,1,1,1,0,Dilwale Dulhania Le Jayenge
+1,0,0,0,0,0,0,0,0,1,Dorsvloer vol confetti
+1,1,1,1,1,0,1,0,1,1,Dumbo
+0,0,0,0,0,0,0,0,0,1,Gone Girl
+1,1,1,0,1,0,1,1,1,1,Good People
+0,1,1,0,1,0,0,1,1,0,Guardians of the Galaxy
+1,1,1,1,1,1,0,1,1,1,Hercules
+0,1,0,1,1,1,0,1,1,1,Homeland
+0,1,0,1,0,0,1,1,1,1,How to Train Your Dragon 2
+0,0,0,0,0,0,0,0,1,0,Hum Aapke Hain Koun...!
+1,0,1,0,1,0,1,0,0,1,Humpty Sharma Ki Dulhania
+0,1,0,1,1,1,1,0,1,0,Interview with the Vampire The Vampire Chronicles
+0,0,0,1,0,0,0,0,1,0,John Tucker Must Die
+1,1,1,1,1,0,1,1,1,1,Katalin Varga
+0,0,0,0,0,0,0,0,0,0,Kick-Ass 2
+0,0,0,1,0,0,1,1,1,0,La Camioneta The Journey of One American School Bus
+0,0,0,0,0,0,1,1,0,1,Loft
+1,0,1,1,0,1,1,1,0,0,Million Dollar Arm
+0,0,0,0,0,0,0,0,0,1,Miss Sixty
+1,1,1,0,1,1,1,1,1,0,Mommie Dearest
+0,0,0,1,0,1,1,0,0,0,My Own Private Idaho
+0,1,0,1,1,1,0,1,1,0,Oorlogswinter
+0,0,1,0,0,0,0,1,0,1,Pocahontas
+0,0,0,0,0,1,0,0,0,1,Quantum of Solace
+0,0,0,0,0,0,0,0,0,0,School of Rock
+0,0,0,0,0,0,0,0,0,1,Silver Linings Playbook
+0,1,0,1,1,1,0,1,1,1,Sleepy Hollow
+0,0,0,0,0,1,0,1,1,1,Soof
+0,1,0,1,1,1,0,1,1,0,The Devil Wears Prada
+1,0,1,0,0,1,0,0,0,0,The Equalizer
+1,1,1,1,1,1,1,1,1,1,The Expendables 3
+1,0,1,0,0,0,0,1,0,0,The Great Escape
+0,0,0,0,0,0,0,1,0,1,The Hundred-Foot Journey
+0,0,0,0,0,0,0,0,0,1,The Inglorious Bastards
+1,1,1,1,1,1,1,1,1,1,The Shawshank Redemption
+0,0,0,0,0,1,0,0,1,0,The Voices
+1,1,1,1,0,1,1,1,1,0,Thor The Dark World
+0,1,0,0,1,1,0,0,1,0,Titanic
+1,1,1,1,1,1,1,1,1,1,Trash
+1,1,1,1,1,1,1,1,1,0,Unbroken
+1,0,1,1,0,0,0,1,0,0,Verliefd op Ibiza
+1,1,0,1,1,0,0,0,0,1,Wet Hot American Summer
+1,1,1,1,0,0,1,1,1,1,What We Do in the Shadows
+0,1,0,1,1,1,1,0,1,0,Who Framed Roger Rabbit
